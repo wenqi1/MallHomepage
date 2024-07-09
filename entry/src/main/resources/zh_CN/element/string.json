@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "main_page_tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "main_page_tab_product",
+      "value": "新品"
+    },
+    {
+      "name": "main_page_tab_cart",
+      "value": "购物车"
+    },
+    {
+      "name": "main_page_tab_personal",
+      "value": "我的"
+    },
+    {
+      "name": "main_page_search_content1",
+      "value": "鸿蒙应用1"
+    },
+    {
+      "name": "main_page_search_content2",
+      "value": "鸿蒙应用2"
+    },
+    {
+      "name": "main_page_search_content3",
+      "value": "鸿蒙应用3"
+    },
+    {
+      "name": "main_page_classify_selected",
+      "value": "精选"
+    },
+    {
+      "name": "main_page_classify_year_gifts",
+      "value": "买年礼"
+    },
+    {
+      "name": "main_page_classify_computer",
+      "value": "电脑办公"
+    },
+    {
+      "name": "main_page_classify_fresh",
+      "value": "生鲜"
+    },
+    {
+      "name": "main_page_classify_phone",
+      "value": "手机"
+    },
+    {
+      "name": "main_page_classify_food",
+      "value": "食品"
+    },
+    {
+      "name": "main_page_classify_drink",
+      "value": "酒水饮料"
+    },
+    {
+      "name": "main_page_classify_daily_use",
+      "value": "居家日用"
+    },
+    {
+      "name": "main_page_commodity_title",
+      "value": "%s %s"
+    },
+    {
+      "name": "main_page_commodity_price",
+      "value": "¥ %d"
+    }
+  ]
+}

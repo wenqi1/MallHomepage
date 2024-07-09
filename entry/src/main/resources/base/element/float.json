@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "main_page_tab_image_size",
+      "value": "30vp"
+    },
+    {
+      "name": "main_page_tab_title_size",
+      "value": "12fp"
+    },
+    {
+      "name": "main_page_tab_space_size",
+      "value": "2vp"
+    },
+    {
+      "name": "product_page_text_size",
+      "value": "100fp"
+    },
+    {
+      "name": "main_page_search_image_size",
+      "value": "20vp"
+    },
+    {
+      "name": "main_page_title_margin_top",
+      "value": "10vp"
+    }
+  ]
+}

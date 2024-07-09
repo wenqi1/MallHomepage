@@ -1,0 +1,85 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "main_page_tab_home",
+      "value": "home"
+    },
+    {
+      "name": "main_page_tab_product",
+      "value": "product"
+    },
+    {
+      "name": "main_page_tab_cart",
+      "value": "cart"
+    },
+    {
+      "name": "main_page_tab_personal",
+      "value": "personal"
+    },
+    {
+      "name": "main_page_search_content1",
+      "value": "harmonyos application1"
+    },
+    {
+      "name": "main_page_search_content2",
+      "value": "harmonyos application2"
+    },
+    {
+      "name": "main_page_search_content3",
+      "value": "harmonyos application3"
+    },
+    {
+      "name": "main_page_classify_selected",
+      "value": "selected"
+    },
+    {
+      "name": "main_page_classify_year_gifts",
+      "value": "year's gifts"
+    },
+    {
+      "name": "main_page_classify_computer",
+      "value": "computer"
+    },
+    {
+      "name": "main_page_classify_fresh",
+      "value": "fresh"
+    },
+    {
+      "name": "main_page_classify_phone",
+      "value": "phone"
+    },
+    {
+      "name": "main_page_classify_food",
+      "value": "food"
+    },
+    {
+      "name": "main_page_classify_drink",
+      "value": "drink"
+    },
+    {
+      "name": "main_page_classify_daily_use",
+      "value": "daily use"
+    },
+    {
+      "name": "main_page_commodity_title",
+      "value": "%s %s"
+    },
+    {
+      "name": "main_page_commodity_price",
+      "value": "¥%d"
+    }
+
+  ]
+}
